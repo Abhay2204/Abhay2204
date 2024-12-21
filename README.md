@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Inspire Engg services website<br>🤝 I’m looking to collaborate on opensource Projects<br>🌱 I’m currently learning Angular<br>💬 you can reach me :abhaymallick.dev@gmail.com<br>⚡internship :The Kiran Academy Pune (completed)
+🔭 Recently Completed my Project on Inspire Engg services website for Inspuire Engineering Services < Manglore <br>🤝 I’m looking to collaborate on opensource Projects<br>🌱 I’m currently learning Angular<br>💬 you can reach me :abhaymallick.dev@gmail.com<br>⚡internship :The Kiran Academy Pune (completed)
 
 
 ## 🌐 Socials:
