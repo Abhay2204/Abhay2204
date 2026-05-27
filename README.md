@@ -1,22 +1,46 @@
-# 💫 About Me:
 
-🔭 **Currently Working On:** **[Cosmic IDE](https://abhay-mallick.vercel.app/)** — A professional-grade, AI-native desktop IDE featuring autonomous agents and integrated multi-language debugging.
-🚀 **Track Record:** Successfully completed **50+ projects**, ranging from CRMs and Mobile Apps to AI-integrated solutions.
-🤝 **Collaboration:** Actively looking to contribute to innovative Open Source projects and high-end web/mobile architectures.
-🌱 **Learning:** Currently refining my expertise in **System Design** and **Scalable Infrastructure**.
-⚡ **Experience:** Full Stack Developer with 2+ years of industry experience, including tenures at **Inspire Engineering Service** and **The Kiran Academy**.
-📍 **Location:** Chandrapur, Maharashtra, India.
-💬 **Reach Me:** [abhaymallick.dev@gmail.com](mailto:abhaymallick.dev@gmail.com) | +91 84218 22204
-
+### 🚀 The Short Story
+I am a **Full Stack Engineer** and **Computer Science Architect** who builds cinematic digital solutions. From liquid-smooth scroll video renderers to multi-platform enterprise software, I build robust, high-performance, and search-optimized applications that scale.
 ---
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhaymallick2002) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/abhay_as_u_like_it)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://abhay-mallick.vercel.app/)
-
+### 🔭 Currently Working On:
+*   **🌌 [Cosmic IDE](https://github.com/Abhay2204/Cosmic-IDE)** — A professional-grade, AI-native desktop IDE featuring autonomous coding agents, terminal loops, and integrated multi-language debuggers.
+*   **🌐 [abhaymallick.space](https://abhaymallick.space)** — Deploying my hyper-optimized, high-fidelity portfolio. Engineered with server-side layout pre-renders, dynamic XML sitemaps, semantic micro-data, and custom structured JSON-LD schemas targeting **Perfect 100/100 Lighthouse Audits**.
 ---
+### 🔥 Core Highlights & Milestones:
+*   **🏆 Proven Track Record**: Completed **50+ production-ready projects** spanning bespoke enterprise **CRMs (TAFE CRM, NE CRM)**, lifestyle platforms, and responsive portal engines (**SmartCity**).
+*   **🤖 AI Engineering**: Integrating models (Gemini API) into functional client workflows, predictive analytics dashboards, natural language task schedulers, and computer vision engines.
+*   **📱 Native Mobile Mastery**: Building sleek, performant, declarative UI mobile apps using **Kotlin & Jetpack Compose** (like **Beyond Bark** — featuring real-time pet mood and disease analysis).
+*   **⚡ Industry Experience**: 2+ years of professional engineering delivery, including impactful tenures at **Inspire Engineering Service** and **The Kiran Academy**.
+*   **🌱 Advanced Specialization**: Currently mastering distributed cloud setups (AWS, Docker containers), microservices architecture, and high-load system design.
+---
+### 🛠️ Technical Stack:
+| Layer | Tools Wielded with Precision |
+| :--- | :--- |
+| **Frontend** | React • Next.js (App Router) • TypeScript • Tailwind CSS • GSAP • Framer Motion |
+| **Backend** | Node.js • Express • Supabase • REST & GraphQL APIs |
+| **Databases** | PostgreSQL • MongoDB • SQL Schema Design |
+| **Mobile** | Kotlin • Jetpack Compose • Android SDK • Firebase |
+| **DevOps** | AWS • Docker • Git Versioning • Vercel Deployment |
+---
+### 📍 Location & Timezone:
+*   **Location**: Chandrapur, Maharashtra, India 🇮🇳
+*   **Timezone**: Indian Standard Time (IST - Asia/Kolkata) • **Open to Remote Global Projects (US, AU, IN)**
+---
+### 📬 Let's Build Something Remarkable:
+<p align="left">
+  <a href="mailto:abhaymallick.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhaymallick.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+918421822204">
+    <img src="https://img.shields.io/badge/Phone-%2B91_84218_22204-green?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://abhaymallick.space">
+    <img src="https://img.shields.io/badge/Portfolio-abhaymallick.space-blue?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhaymallick2002">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhay_Mallick-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 
