@@ -61,28 +61,3 @@ I am a **Full Stack Engineer** and **Computer Science Architect** who builds cin
 * **TAFE CRM:** Tailored enterprise CRM for student enrollment and workflow management.
 * **Nexus AI Task Commander:** Next.js-powered task manager featuring focus modes and productivity analytics.
 * **CodeX DSA:** Interactive mobile education platform for mastering algorithms.
-
----
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhay2204&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false" alt="Abhay's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay2204&theme=shadow_green&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay2204&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhay2204&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=abhay2204&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</p>
