@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Abhay%20Mallick&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Software%20Architect%20%E2%80%A2%20AI%20Integrations&descAlignY=58&descSize=17&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Abhay%20Mallick&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Software%20Architect%20%E2%80%A2%20AI%20Integrations&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Building+High-Performance+Full+Stack+Systems;AI-Powered+Product+Engineering+%40+Scale;Crafting+Enterprise+CRMs+%26+Native+Mobile+Apps;50%2B+Production+Projects+Shipped+%26+Delivered" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Building+High-Performance+Full+Stack+Systems;AI-Powered+Product+Engineering+%40+Scale;Crafting+Enterprise+CRMs+%26+Native+Mobile+Apps;50%2B+Production+Projects+Shipped+%26+Delivered;Open+Source+%7C+AI+Engineering+%7C+Cloud+Native" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Chandrapur%2C%20Maharashtra%2C%20India-1E1B4B?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/🕐%20IST%20(UTC%2B5:30)-1E1B4B?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌐%20Open%20To%20Remote-US%20%7C%20AU%20%7C%20IN-312E81?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Chandrapur%2C%20Maharashtra%2C%20India-1E1B4B?style=flat-square" />
+  <img src="https://img.shields.io/badge/%F0%9F%95%90%20IST%20(UTC%2B5%3A30)-1E1B4B?style=flat-square" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Open%20To%20Remote-US%20%7C%20AU%20%7C%20IN-312E81?style=flat-square" />
 </p>
 
 <p align="center">
@@ -26,20 +26,20 @@
     <img src="https://img.shields.io/badge/Portfolio-abhaymallick.space-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abhaymallick2002">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Mallick-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abhaymallick.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abhaymallick.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Abhay2204">
-    <img src="https://img.shields.io/badge/GitHub-Abhay2204-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-@Abhay2204-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhay2204&label=Profile%20Views&color=7C3AED&style=flat-square" />
   <img src="https://img.shields.io/github/followers/Abhay2204?label=Followers&style=flat-square&color=6D28D9&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/github/stars/Abhay2204?label=Total%20Stars&style=flat-square&color=8B5CF6&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/github/stars/Abhay2204?label=Stars%20Earned&style=flat-square&color=8B5CF6&labelColor=1E1B4B" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 I am a **Full Stack Software Engineer** and **Computer Science Architect** with over **2 years of professional engineering delivery**, specializing in building scalable, high-performance digital systems across web, mobile, enterprise, and AI domains.
 
-My engineering philosophy centers on **precision at every layer** — from pixel-perfect UI compositions to distributed backend architectures, from optimized database schemas to cloud-native deployments. I do not just write code; I architect solutions with maintainability, performance, and business impact at their core.
+My engineering philosophy centers on **precision at every layer** — from pixel-perfect UI compositions to distributed backend architectures, from optimized database schemas to cloud-native deployments. I don't just write code; I architect solutions with maintainability, performance, and business impact at their core.
 
 In the **AI/ML domain**, I integrate large language models and computer vision pipelines into real production workflows — building intelligent task schedulers, predictive analytics dashboards, autonomous coding agents, and disease-detection systems that deliver measurable results.
 
@@ -67,16 +67,12 @@ I have **delivered 50+ production-ready projects** spanning bespoke enterprise C
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <strong>Languages</strong>
-</p>
+<p align="center"><strong>Languages</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,kotlin,python,java,html,css&theme=dark&perline=8" />
 </p>
 
-<p align="center">
-  <strong>Frontend & UI/UX</strong>
-</p>
+<p align="center"><strong>Frontend & UI/UX</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,vue&theme=dark&perline=8" />
   <br/>
@@ -84,16 +80,12 @@ I have **delivered 50+ production-ready projects** spanning bespoke enterprise C
   <img src="https://img.shields.io/badge/Framer%20Motion-EF0078?style=flat-square&logo=framer&logoColor=white" />
 </p>
 
-<p align="center">
-  <strong>Backend & Databases</strong>
-</p>
+<p align="center"><strong>Backend & Databases</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,supabase&theme=dark&perline=8" />
 </p>
 
-<p align="center">
-  <strong>Mobile</strong>
-</p>
+<p align="center"><strong>Mobile</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react&theme=dark&perline=8" />
   <br/>
@@ -101,9 +93,7 @@ I have **delivered 50+ production-ready projects** spanning bespoke enterprise C
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
 
-<p align="center">
-  <strong>Cloud, DevOps & Tooling</strong>
-</p>
+<p align="center"><strong>Cloud, DevOps & Tooling</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,postman&theme=dark&perline=8" />
   <br/>
@@ -137,7 +127,7 @@ I have **delivered 50+ production-ready projects** spanning bespoke enterprise C
 <summary><strong>🌌 Cosmic IDE — AI-Native Desktop Development Environment</strong></summary>
 <br/>
 
-A professional-grade, AI-native desktop IDE engineered from the ground up for modern software development workflows. Cosmic IDE features autonomous coding agents that write, refactor, and debug code independently, terminal loop execution environments, and an integrated multi-language debugger. Built on Electron for cross-platform delivery, backed by a Node.js runtime, and powered by the Gemini API for intelligent completions and agentic reasoning. The extension ecosystem allows third-party plugin integration, making it extensible and developer-community-friendly.
+A professional-grade, AI-native desktop IDE engineered from the ground up for modern software development workflows. Features autonomous coding agents that write, refactor, and debug code independently, terminal loop execution environments, and an integrated multi-language debugger. Built on Electron for cross-platform delivery, backed by a Node.js runtime, and powered by the Gemini API for intelligent completions and agentic reasoning.
 
 | Attribute | Details |
 |-----------|---------|
@@ -156,7 +146,7 @@ A professional-grade, AI-native desktop IDE engineered from the ground up for mo
 <summary><strong>🏢 TAFE CRM — Enterprise Customer Relationship Management System</strong></summary>
 <br/>
 
-A fully bespoke enterprise CRM platform engineered for TAFE's student enrollment and business workflow management. Built with a React frontend, Node.js backend, and PostgreSQL relational database, the system provides end-to-end lead lifecycle management — from initial inquiry through enrollment, follow-up scheduling, service tracking, and business analytics reporting. Delivered as a packaged Electron desktop application for offline-capable enterprise deployment.
+A fully bespoke enterprise CRM platform built for student enrollment and business workflow management. Provides end-to-end lead lifecycle management — from initial inquiry through enrollment, follow-up scheduling, service tracking, and analytics reporting. Delivered as a packaged Electron desktop application for offline-capable enterprise deployment.
 
 | Attribute | Details |
 |-----------|---------|
@@ -175,7 +165,7 @@ A fully bespoke enterprise CRM platform engineered for TAFE's student enrollment
 <summary><strong>🌆 Smart City Chandrapur — Integrated Urban Governance Portal</strong></summary>
 <br/>
 
-A unified digital governance portal integrating 15+ live city datasets for Chandrapur, Maharashtra. The platform consolidates citizen complaint management, urban mobility data, environmental monitoring, healthcare facility tracking, civic event listings, and governance reporting into a single, responsive portal engine. Built with React, Node.js, and PostgreSQL, the system provides real-time data visualizations, filterable dashboards, and role-separated administrative interfaces for city administrators and citizens alike.
+A unified digital governance portal integrating 15+ live city datasets for Chandrapur, Maharashtra. Consolidates complaint management, mobility data, environmental monitoring, healthcare tracking, civic events, and governance reporting into a single responsive portal. Provides real-time visualizations, filterable dashboards, and role-separated admin interfaces.
 
 | Attribute | Details |
 |-----------|---------|
@@ -183,7 +173,7 @@ A unified digital governance portal integrating 15+ live city datasets for Chand
 | **Scale** | City-wide platform — 15+ live dataset integrations, multi-role access |
 | **Performance** | Server-side data aggregation, caching layers, paginated dataset rendering |
 | **Security** | Admin-gated data mutation, public read-only views, API key management |
-| **Impact** | Unified digital interface for civic governance, real-time city monitoring dashboard |
+| **Impact** | Unified digital interface for civic governance and real-time city monitoring |
 | **Repository** | [github.com/Abhay2204](https://github.com/Abhay2204) |
 
 </details>
@@ -194,7 +184,7 @@ A unified digital governance portal integrating 15+ live city datasets for Chand
 <summary><strong>🐾 BeyondBark — AI-Powered Pet Care Ecosystem</strong></summary>
 <br/>
 
-A sophisticated Android application built with Kotlin and Jetpack Compose, delivering an AI-powered pet care platform with real-time disease detection, species identification, breed classification, and smart care recommendations. Leverages Netmind API for computer vision inference and Firebase for real-time data sync and authentication. Features a rescue support module connecting users with nearby shelters and veterinary services, creating a complete companion animal care ecosystem.
+A native Android application built with Kotlin and Jetpack Compose delivering real-time disease detection, species identification, breed classification, and smart care recommendations. Leverages Netmind API for computer vision inference and Firebase for real-time data sync. Includes a rescue support module connecting users with nearby shelters and veterinary services.
 
 | Attribute | Details |
 |-----------|---------|
@@ -213,11 +203,11 @@ A sophisticated Android application built with Kotlin and Jetpack Compose, deliv
 <summary><strong>📊 3D House Price Prediction — Machine Learning Analytics Platform</strong></summary>
 <br/>
 
-A full-stack machine learning platform that predicts residential property prices based on multi-dimensional inputs including geolocation, built area, amenity profiles, and prevailing market trends. The Python ML backend exposes a REST API consumed by a React frontend that renders interactive 3D data visualizations, comparative pricing charts, and predictive confidence scoring. Designed as a demonstration of end-to-end ML system design — from data preprocessing and model training to production deployment and UI consumption.
+A full-stack ML platform predicting residential property prices based on geolocation, built area, amenity profiles, and market trends. The Python ML backend exposes a REST API consumed by a React frontend rendering interactive 3D data visualizations, comparative pricing charts, and predictive confidence scoring.
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | React, Python, Machine Learning (scikit-learn / pandas), REST API |
+| **Stack** | React, Python, scikit-learn, pandas, REST API |
 | **Scale** | Full-stack ML platform — model training pipeline + production API + UI |
 | **Performance** | Optimized feature engineering pipeline, cached model inference, async API responses |
 | **Security** | Input validation, rate-limited prediction endpoint, sanitized data ingestion |
@@ -232,7 +222,7 @@ A full-stack machine learning platform that predicts residential property prices
 <summary><strong>💻 CodeX DSA — Interactive Algorithm Learning Platform</strong></summary>
 <br/>
 
-A cross-platform interactive education platform purpose-built for mastering Data Structures and Algorithms. Combines Vue.js-powered visual algorithm animations with a React Native mobile application to deliver a consistent, engaging learning experience across devices. Features step-by-step algorithm visualization, embedded coding practice environments, structured learning paths, and progress tracking with competency analytics — designed to serve competitive programming learners and software engineering interview candidates.
+A cross-platform interactive education platform for mastering Data Structures and Algorithms. Combines Vue.js-powered visual algorithm animations with a React Native mobile app. Features step-by-step algorithm visualization, embedded coding practice, structured learning paths, and progress tracking with competency analytics.
 
 | Attribute | Details |
 |-----------|---------|
@@ -251,11 +241,7 @@ A cross-platform interactive education platform purpose-built for mastering Data
 
 <table>
 <tr>
-<td width="70">
-
-**2025**<br/>**→ Now**
-
-</td>
+<td width="80"><strong>2025<br/>→ Now</strong></td>
 <td>
 
 ### Freelance Full Stack Developer
@@ -264,8 +250,8 @@ A cross-platform interactive education platform purpose-built for mastering Data
 Delivering end-to-end engineering solutions for clients across India, the US, and Australia — spanning full-stack web platforms, native Android applications, enterprise CRM systems, AI-integrated products, and cloud-deployed services.
 
 - Architected and shipped 50+ production projects across web, mobile, enterprise software, and AI domains
-- Designed and built scalable REST APIs, robust authentication systems, and cloud integrations on AWS
-- Developed automation workflows, inventory management systems, and analytics dashboards for business clients
+- Designed scalable REST APIs, robust authentication systems, and cloud integrations on AWS
+- Developed automation workflows, inventory management systems, and analytics dashboards
 - Maintained direct client relationships through Agile delivery cycles and iterative feedback loops
 
 `React` `Next.js` `Node.js` `Kotlin` `PostgreSQL` `MongoDB` `AWS` `Docker` `Gemini API` `Firebase`
@@ -273,17 +259,13 @@ Delivering end-to-end engineering solutions for clients across India, the US, an
 </td>
 </tr>
 <tr>
-<td>
-
-**Jul 2024**<br/>**→ Dec 2024**
-
-</td>
+<td><strong>Jul 2024<br/>→ Dec 2024</strong></td>
 <td>
 
 ### Software Development Intern
 **Inspire Engineering Service · On-site**
 
-Embedded within an engineering services firm, contributing to internal tooling and operational software that managed workforce processes across multiple departments.
+Embedded within an engineering services firm, contributing to internal tooling and operational software managing workforce processes across multiple departments.
 
 - Built end-to-end attendance management and payroll automation systems
 - Developed inventory tracking and document management platforms integrated with existing workflows
@@ -295,22 +277,17 @@ Embedded within an engineering services firm, contributing to internal tooling a
 </td>
 </tr>
 <tr>
-<td>
-
-**Jan 2024**<br/>**→ Jun 2024**
-
-</td>
+<td><strong>Jan 2024<br/>→ Jun 2024</strong></td>
 <td>
 
 ### Full Stack Java Trainee
 **The Kiran Academy · Training Programme**
 
-Completed an intensive, industry-aligned Full Stack Java development programme covering enterprise backend engineering, database design, and modern frontend development practices.
+Completed an intensive, industry-aligned Full Stack Java programme covering enterprise backend engineering, database design, and modern frontend development practices.
 
 - Mastered Java and Spring Boot for enterprise-grade REST API and backend system development
 - Built full-stack applications integrating React frontends with Spring Boot backends and SQL databases
 - Studied software architecture patterns, deployment practices, and production engineering standards
-- Developed strong foundations in backend data modeling, authentication systems, and API design
 
 `Java` `Spring Boot` `SQL` `React` `HTML` `CSS` `JavaScript` `REST APIs` `System Architecture`
 
@@ -329,10 +306,10 @@ Completed an intensive, industry-aligned Full Stack Java development programme c
 | 🚀 **50+ Production Projects Delivered** | Shipped across Web, Mobile, Enterprise CRM, AI, and Automation domains for global clients |
 | 🌆 **Smart City Platform** | Integrated 15+ live civic datasets into a unified Chandrapur governance portal |
 | 🤖 **AI-Native IDE Authored** | Built Cosmic IDE — an autonomous agent-powered desktop development environment |
-| 📱 **Native Mobile AI App** | Delivered BeyondBark — real-time CV inference on Android with Kotlin + Jetpack Compose |
-| 🌐 **100/100 Lighthouse Target** | Engineered portfolio with server-side rendering, structured JSON-LD, and dynamic XML sitemaps |
+| 📱 **Native Mobile AI App** | BeyondBark — real-time CV inference on Android with Kotlin + Jetpack Compose |
+| 🌐 **100/100 Lighthouse Target** | Portfolio engineered with SSR, structured JSON-LD, and dynamic XML sitemaps |
 | 🏢 **Enterprise CRM Delivery** | Architected bespoke CRM systems (TAFE CRM, NE CRM) from zero to production |
-| ☁️ **Multi-Cloud Deployment** | Delivered AWS EC2 / S3 deployed, Docker-containerized applications in production |
+| ☁️ **Multi-Cloud Deployment** | AWS EC2 / S3 deployed, Docker-containerized applications in production |
 
 </div>
 
@@ -340,9 +317,7 @@ Completed an intensive, industry-aligned Full Stack Java development programme c
 
 ## 📜 Certifications
 
-<p align="center">
-  <strong>Development & Engineering</strong>
-</p>
+<p align="center"><strong>Development & Engineering</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java%20Essential%20Full%20Stack%20Development-CADD%20Centre%20%7C%202024-7C3AED?style=for-the-badge&logo=java&logoColor=white" />
@@ -360,18 +335,18 @@ Completed an intensive, industry-aligned Full Stack Java development programme c
 
 <p align="center">
   <a href="https://leetcode.com/abhaymallick">
-    <img src="https://img.shields.io/badge/LeetCode-Abhay%20Mallick-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/abhaymallick">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Abhay%20Mallick-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-My%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 <p align="center">
   <a href="https://www.hackerrank.com/abhaymallick">
-    <img src="https://img.shields.io/badge/HackerRank-Abhay%20Mallick-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+    <img src="https://img.shields.io/badge/HackerRank-My%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
   <a href="https://www.codechef.com/users/abhaymallick">
-    <img src="https://img.shields.io/badge/CodeChef-Abhay%20Mallick-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-My%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
@@ -380,12 +355,12 @@ Completed an intensive, industry-aligned Full Stack Java development programme c
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhay2204&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D0C1D" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay2204&layout=compact&langs_count=8&theme=tokyonight&border_color=7C3AED&title_color=A78BFA&text_color=C4B5FD&bg_color=0D0C1D" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhay2204&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D0C1D&hide_title=false&custom_title=My%20GitHub%20Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay2204&layout=compact&langs_count=8&theme=tokyonight&border_color=7C3AED&title_color=A78BFA&text_color=C4B5FD&bg_color=0D0C1D&custom_title=My%20Top%20Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhay2204&theme=tokyonight&border=7C3AED&ring=A78BFA&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=9CA3AF&background=0D0C1D" />
+  <img src="https://streak-stats.demolab.com?user=Abhay2204&theme=tokyonight&border=7C3AED&ring=A78BFA&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=9CA3AF&background=0D0C1D&hide_total_contributions=false" />
 </p>
 
 ---
@@ -393,7 +368,7 @@ Completed an intensive, industry-aligned Full Stack Java development programme c
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhay2204&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&title_color=A78BFA" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhay2204&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
 
 ---
@@ -401,16 +376,54 @@ Completed an intensive, industry-aligned Full Stack Java development programme c
 ## 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay2204&bg_color=0D0C1D&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=5B21B6&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay2204&bg_color=0D0C1D&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=5B21B6&hide_border=true&custom_title=My%20Contribution%20Graph" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
+> **Setup required:** Add the workflow below to `.github/workflows/snake.yml` in your profile repo (`Abhay2204/Abhay2204`), then the snake will auto-generate and the image will appear here.
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhay2204/Abhay2204/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhay2204/Abhay2204/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhay2204/Abhay2204/output/github-contribution-grid-snake.svg" />
+    <img alt="My contribution snake animation" src="https://raw.githubusercontent.com/Abhay2204/Abhay2204/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
+
+<details>
+<summary><strong>⚙️ Snake Workflow Setup (.github/workflows/snake.yml)</strong></summary>
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
@@ -444,23 +457,23 @@ open_to:
 
 <p align="center">
   <a href="mailto:abhaymallick.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-abhaymallick.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Drop%20Me%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/abhaymallick2002">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Mallick-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Abhay2204">
-    <img src="https://img.shields.io/badge/GitHub-Abhay2204-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 <p align="center">
   <a href="https://abhaymallick.space">
-    <img src="https://img.shields.io/badge/Portfolio-abhaymallick.space-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="tel:+918421822204">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B91%2084218%2022204-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
