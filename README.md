@@ -383,7 +383,6 @@ Completed an intensive, industry-aligned Full Stack Java programme covering ente
 
 ## 🐍 Contribution Snake
 
-> **Setup required:** Add the workflow below to `.github/workflows/snake.yml` in your profile repo (`Abhay2204/Abhay2204`), then the snake will auto-generate and the image will appear here.
 
 <p align="center">
   <picture>
