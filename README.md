@@ -23,6 +23,7 @@
 
 <p align="center">
   <a href="https://www.abhaymallick.space/">
+    <a href="https://www.abhaydev.space/">
     <img src="https://img.shields.io/badge/Portfolio-abhaymallick.space-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abhaymallick2002">
